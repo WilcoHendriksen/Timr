@@ -28,6 +28,9 @@ Up fontsize
 [Down]  
 Lower fontsize
 
+[Q]  
+Lower fontsize
+
 On the bottom right there is sizer. You can size the window, the text will always be centralized.
 
 ## needed runtime
